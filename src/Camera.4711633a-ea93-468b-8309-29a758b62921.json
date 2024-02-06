@@ -1,4 +1,5 @@
 {
+    "id": "4711633a-ea93-468b-8309-29a758b62921",
     "type": "Screen",
     "translatedName": "Screen",
     "reactType": "ViewWithProps",
@@ -562,7 +563,6 @@
             "name": "Full Page"
         }
     ],
-    "id": "4711633a-ea93-468b-8309-29a758b62921",
     "thunkableVersion": 443,
     "name": "Camera"
 }
